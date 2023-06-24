@@ -76,7 +76,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/niranjanakoni/niranjanakoni/output/snake.svg" alt="Snake animation" />
-
-###
