@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Azure DevOps Trainee<br>- 📚 I'm currently learning Terraform</p>
+<p align="left">- 🔭 I’m working as Technical Trainee Consultant @ <b>Canarys Automation</b><br>- 📚 I'm currently learning <b>GitHub</b> </p>
 
 ###
 
