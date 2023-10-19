@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjanakoni&label=Profile%20views&color=0e75b6&style=flat" alt="niranjanakoni" /> </p>
 
 - 🔭 I’m working as Technical Trainee Consultant @ **Canarys Automation Ltd.**
-- 📚 I'm currently learning **GitHub**
-- 💬 Ask me about **AWS Cloud, Ansible, Docker, Kubernetes, Jenkins, Git & Azure DevOps.**
+- 📚 I'm currently learning **GitHub (GitHub Actions & GHAS)**
+- 💬 Ask me about **Git, GitHub, Jenkins, Azure DevOps, Ansible, Docker, Kubernetes & AWS Cloud.**
 - 📝 I regularly write articles on [Niranjana Koni Blogs](https://niranjanakoni.hashnode.dev/)
 
 
