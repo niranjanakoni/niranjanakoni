@@ -11,7 +11,7 @@
 <div>
 <h3 align="left">Certifications:</h3>
 <a herf="https://www.credly.com/badges/f9dc7edb-beae-4d75-8282-ec23c0da882b/public_url" target="_blank"><img src="https://images.credly.com/size/200x200/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" target="_blank"></a> <img width="15" />
-<a herf="https://images.credly.com/size/680x680/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" target="_blank"><img src="https://images.credly.com/size/200x200/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" target="_blank"></a> <img width="15" />
+<a herf="https://www.credly.com/badges/cbd0925f-d203-403e-95f7-74d22efc9413/public_url" target="_blank"><img src="https://images.credly.com/size/200x200/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" target="_blank"></a> <img width="15" />
 </div>
 <br>
 <div> 
