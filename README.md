@@ -3,7 +3,7 @@
 <h3 align="center">DevOps Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjanakoni&label=Profile%20views&color=0e75b6&style=flat" alt="niranjanakoni" /> </p>
 
-- 🚀 I’m working as DevOps Consultant @ **XPT SoftwareXPT Consultancy & Software Services Pvt. Ltd.**
+- 🚀 I’m working as DevOps Engineer @ **XPT SoftwareXPT Consultancy & Software Services Pvt. Ltd.**
 - 📚 I'm Proficient with **GitHub (GitHub Actions, GitHub Administration and GitHub Advance Security)**
 - 💬 Ask me about **Git, GitHub, Jenkins, Azure DevOps, Ansible, Terraform, Docker, Kubernetes & AWS Cloud.**
 - 📝 I regularly write articles on [Niranjana Koni Blogs](https://niranjanakoni.hashnode.dev/)
