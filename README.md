@@ -27,7 +27,6 @@
 <br>
 <div> 
 <h3 align="left">🌐 Connect with me</h3>
-<a href="https://www.linkedin.com/in/niranjanakoni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <img width="15" />
 <a href="https://github.com/niranjanakoni" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> <img width="15" />
 <a href = "mailto:niranjankoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
