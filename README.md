@@ -30,7 +30,7 @@
 <br>
 <div> 
 <h3 align="left">🌐 Connect with me</h3>
-<a href="https://www.linkedin.com/in/niranjanakoni" target="_blank">
+<a href="https://www.linkedin.com/in/niranjana-koni/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <img width="15" />
