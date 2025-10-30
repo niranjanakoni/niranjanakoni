@@ -3,6 +3,7 @@
 <h3 align="center">DevOps Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjanakoni&label=Profile%20views&color=0e75b6&style=flat" alt="niranjanakoni" /> </p>
 
+- 🚀 I’m working as DevOps Consultant **[@Canarys Automation Ltd.](https://ecanarys.com/)**
 - 📚 I'm Proficient with **GitHub (GitHub Actions, GitHub Administration and GitHub Advance Security)**
 - 💬 Ask me about **Git, GitHub, Jenkins, Azure DevOps, Ansible, Terraform, Docker, Kubernetes & AWS Cloud.**
 - 📝 I regularly write articles on [Niranjana Koni Blogs](https://niranjanakoni.hashnode.dev/)
@@ -22,13 +23,24 @@
 <a herf="https://www.credly.com/badges/f79cd4f3-b2af-4300-ac6f-44cc02c851fb/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" target="_blank"></a>
 <a herf="https://www.credly.com/badges/f9dc7edb-beae-4d75-8282-ec23c0da882b/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" target="_blank"></a> 
 <a herf="https://www.credly.com/badges/cbd0925f-d203-403e-95f7-74d22efc9413/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" target="_blank"></a> 
-<a herf="https://www.credly.com/badges/ad0db514-311a-4e3a-ac88-38833745f418/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" target="_blank"></a> 
+<a herf="https://www.credly.com/badges/ad0db514-311a-4e3a-ac88-38833745f418/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" target="_blank"></a>
+<a herf="https://www.credly.com/badges/0d486a7c-2270-4452-a23c-57b2299e754f/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" target="_blank"></a>
+<a herf="https://www.credly.com/badges/d2e77cfa-c570-42c5-a712-7973a7b9239e/public_url" target="_blank"><img src="https://images.credly.com/size/145x145/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" target="_blank"></a>
 </div>
 <br>
 <div> 
 <h3 align="left">🌐 Connect with me</h3>
-<a href="https://github.com/niranjanakoni" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> <img width="15" />
-<a href = "mailto:niranjankoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/niranjanakoni" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<img width="15" />
+<a href="https://github.com/niranjanakoni" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<img width="15" />
+<a href="mailto:niranjankoni@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 </div>
 <br>
 <div>
